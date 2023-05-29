@@ -1,0 +1,9 @@
+body{
+    position:absolute;
+}
+table, td, th{
+    border: 1px solid black;
+}
+table tr :first-child{
+    background-color: rgb(88, 168, 238);
+}
